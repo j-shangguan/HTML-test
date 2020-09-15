@@ -12,8 +12,7 @@ navbar:
   right:
   - icon: fa-github
     text: Source code
-    href: https://github.com/j-shangguan/Reproducible research with workflow-tester
-      website
+    href: https://github.com/j-shangguan/HTML-test
 output:
   workflowr::wflow_html:
     toc: yes
