@@ -10,5 +10,6 @@ editor_options:
 
 This is my first workflowr website!
 
-*[Teeth growth analysis](teeth.html)
-This analysis compares teeth length. 
+* [Teeth growth analysis](teeth.html): This analysis compares teeth length. 
+
+* Here is a link to my teammate's website: [Alec](https://alecwilken.github.io/myproject/)
